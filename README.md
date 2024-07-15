@@ -4,7 +4,7 @@
 I recently embarked on a personal project titled "Uber Data Analytics | Modern Data Engineering GCP Project." The primary objective was to perform comprehensive data analytics on Uber data, encompassing both ETL processes and data visualization.
 
 ## Interactive Uber Dashboard
-**[CLICK HERE TO ]** **[Open Dashboard](https://lookerstudio.google.com/reporting/92ca35d9-ac31-45fe-b54d-c5fe450d62d2)**
+**[CLICK HERE TO] ** ** [Open Dashboard](https://lookerstudio.google.com/reporting/92ca35d9-ac31-45fe-b54d-c5fe450d62d2)**
 
 ## Overview
 ![](https://github.com/AdarshBahadur/uber-analytics-data-engineering-project/blob/main/uber_dashboard.png)
