@@ -35,4 +35,4 @@ I recently embarked on a personal project titled "Uber Data Analytics | Modern D
 ![](https://github.com/AdarshBahadur/uber-analytics-data-engineering-project/blob/main/data_model.jpeg)
 
 ## Conclusion
-This project not only honed my data engineering skills but also showcased my capability to independently execute and manage end-to-end data analytics projects. I'm excited to share this achievement and the knowledge gained throughout this journey.
+This project not only honed my data engineering skills but also showcased my capability to independently execute and manage end-to-end data analytics projects.
