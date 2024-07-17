@@ -7,6 +7,7 @@ I recently embarked on a personal project titled "Uber Data Analytics | Modern D
 **[CLICK HERE TO] [Open Dashboard](https://lookerstudio.google.com/reporting/92ca35d9-ac31-45fe-b54d-c5fe450d62d2)**
 
 ## Overview
+![](https://github.com/AdarshBahadur/uber-analytics-data-engineering-project/blob/main/uber_dashboard.pdf)
 ![](https://github.com/AdarshBahadur/uber-analytics-data-engineering-project/blob/main/uber_dashboard.png)
 
 ## Technologies and Tools Used
